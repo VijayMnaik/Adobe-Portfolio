@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:rgba(7, 104, 222, 0.95);
+    margin: 0px;
+    font-family: adobe-clean, "Adobe Clean", sans-serif;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px 20px 20px;
+
+}
+.five{
+    display: flex;
+    padding: 10px 20px 20px 20px;
+    flex-direction: row;
+    color: black;
+    font-size: 18px;
+    color: rgb(255,255,255);
+}
+.first{
+    padding: 0 10px;
+    color:rgb(255,255,255);
+}
+.mobile{
+    margin-top: 6vh;
+}
+.peter{
+    margin-top: 6vh;
+    padding-left: 120px;
+    padding-right: 120px;
+    
+}
+.beauty{
+    background-color: rgba(7, 104, 222, 0.95);
+    display: block;
+    margin: 70px 100px;
+
+}
+button{
+    margin-top: 40px;
+    border-radius: 50px;
+    /* background-color:#fff ; */
+}
+.this{
+    display: flex;
+flex-direction: column;
+/* justify-content: center; */
+}
+.see{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 20px;
+    /* background-color: white; */
+    text-align: center;
+}
+
+.carousel-item,.d-block {
+    position: absolute;
+    object-fit:cover;
+ /* padding: 50px 50px 50px 50px; */
+    height: 700px;
+    /* background-size: cover */
+
+}
+.port{
+    display: flex;
+    /* padding: 20px 200px 20px 20vw; */
+    /* margin-right: 30px; */
+    text-align: center;
+    flex-direction:column;
+    justify-content: center;
+}
+
+
